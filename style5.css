@@ -1,0 +1,86 @@
+#a1{
+    position:absolute;
+    top:auto;
+    left:10%;
+    right:60%;
+    margin:20px;
+}
+#a2{
+    position:absolute;
+    top:auto;
+    left:auto;
+    right:10%;
+    padding-bottom: 34px;
+}
+
+
+#a3{
+    position:absolute;
+    top:40%;
+    left:10%;
+    right:60%;
+}
+#a4{
+    position:absolute;
+    top:40%;
+    left:auto;
+    right:10%;
+}
+
+#a5{
+    position:absolute;
+    top:65%;
+    left:10%;
+    right:60%;
+}
+#a6{
+    position:absolute;
+    top:65%;
+    left:auto;
+    right:10%;
+}
+
+#a7{
+    position:absolute;
+    top:93%;
+    left:10%;
+    right:60%;
+}
+
+#a8{
+    position:absolute;
+    top:93%;
+    left:auto;
+    right:10%;
+}
+
+#a9{
+    position:absolute;
+    top:123%;
+    left:10%;
+    right:60%;
+}
+ 
+#a10{
+    position:absolute;
+    top:123%;
+    left:auto;
+    right:10%;
+}
+
+#a11{
+    position:absolute;
+    top:157%;
+    left:10%;
+    right:60%;
+}
+#a12{
+    position:absolute;
+    top:157%;
+    left:auto;
+    right:10%;
+}
+
+.Aboutus:hover{
+    color:antiquewhite;
+}

@@ -1,0 +1,151 @@
+body{
+    background-image: url("light.jpg");
+	background-size: 100%;
+	height: -100%;
+	background-size: 100%;
+	height: -100%;
+   background-size: 150% 150%;
+
+
+-webkit-animation: AnimationName 70s ease infinite;
+-moz-animation: AnimationName 70s ease infinite;
+animation: AnimationName 70s ease infinite;
+   
+  
+   
+transition: 0.6s;
+}
+.btn
+{
+justify-content: center;
+border: none;
+margin:15px;
+padding: 18px;
+width: 10%;
+color:black;
+font-family: "montserrat",sans-serif;
+text-transform: uppercase;
+border-radius: 6px;
+cursor: pointer;
+transition: 0.6s;
+background: #FFE000;  
+ background: linear-gradient(to top left, #e1e4e5 0%,  #0cb8d6 100%);
+ font-weight: bold;
+ font-size: 20px;
+
+}
+.button
+{
+    background: linear-gradient(to top left, #e1e4e5 0%,  #0cb8d6 100%);
+}
+
+.button:hover
+{
+ background: linear-gradient(to top left, #e1e4e5 0%,  #0ade54 100%);
+	transform: scale(1.2);
+	transition: 0.6s;
+}
+
+.btn
+{	width: 13%;
+	
+}
+.btn:hover
+{	
+	 background: linear-gradient(to top left, #e1e4e5 0%,  #15af37 100%);
+	transform: scale(1.2);
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, monospace;
+	font-weight: bold;
+}
+
+#heading{
+    color:wheat;
+    text-decoration: underline;
+    margin-left: 35%;
+    margin-bottom: 3%;
+    font-size: 30px;
+    
+}
+table {
+    padding: 5px;
+    background-color: #34495e;
+    background-size: 400% 400%;
+background-image: url("back.png");
+
+-webkit-animation: AnimationName 12s ease infinite;
+-moz-animation: AnimationName 12s ease infinite;
+animation: AnimationName 12s ease infinite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    margin-right: 1cm;
+    margin-left: 1cm;
+}
+th,td,p,h1,label,input{
+    color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+input{
+        background-color: #243547;
+        border: 2px solid #d6cf58;
+        border-radius:5px;
+}
+button{
+    color:wheat;
+    background-color:  #34495e;
+    border:2px solid #d6cf58;
+    padding: 10px;
+    width:3cm;
+    margin-left:1cm;
+    font-size: 20px;
+    margin-left: 250%;
+
+}
+.but{
+    float:left;
+    width: 20%;
+}
+.suggstandrslt{
+    float:left;
+    width:50%;
+}
+.chart{
+    float:left;
+    width:50%;
+}
+#scr{
+    size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:wheat;
+    display: none;
+    float:inline-end;
+    width:70%
+}
+body{
+    background-color: #243547;
+    
+    
+}
+table {
+    background-color: #34495e;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    margin-right: 1cm;
+    margin-left: 1cm;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 23%}
+    50%{background-position:100% 78%}
+    100%{background-position:0% 23%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 23%}
+    50%{background-position:100% 78%}
+    100%{background-position:0% 23%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 23%}
+    50%{background-position:100% 78%}
+    100%{background-position:0% 23%}
+}
